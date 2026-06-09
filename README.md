@@ -35,7 +35,6 @@ The goal of this part isn't to write real documentation — it's just to practic
 
 <!-- Add your name to the list! -->
 
-- Omar Al Raisi
-- Omar Al kindi
+-
 
 That's it — let's get started!
