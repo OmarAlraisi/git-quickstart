@@ -35,6 +35,6 @@ The goal of this part isn't to write real documentation — it's just to practic
 
 <!-- Add your name to the list! -->
 
--
+-Tuqa AlHosni
 
 That's it — let's get started!
