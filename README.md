@@ -4,7 +4,12 @@
 
 This workshop is a hands-on introduction to Git and GitHub. By the end, you'll be comfortable with the everyday Git workflow and the core GitHub collaboration features.
 
-### Part 1 — Git Basics
+### Part 1 - Configure GitHub Repository
+
+- Add collaborators
+- Protect default branch
+
+### Part 2 — Git Basics
 
 We'll walk through the essential commands you'll use every day:
 
@@ -15,7 +20,7 @@ We'll walk through the essential commands you'll use every day:
 - `git commit` — save a snapshot of your work
 - `git push` — share your changes with the remote
 
-### Part 2 — Collaborating on GitHub
+### Part 3 — Collaborating on GitHub
 
 Next, you'll put those commands to work by making small contributions to this `README.md` file. Along the way you'll learn how to:
 
