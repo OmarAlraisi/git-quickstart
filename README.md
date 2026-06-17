@@ -34,6 +34,7 @@ The goal of this part isn't to write real documentation — it's just to practic
 ### Participants
 
 <!-- Add your name to the list! -->
+- Hadil Al Maawali
 
 -Tuqa AlHosni
 
